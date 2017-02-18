@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "Mail Shield",
   "short_name": "mxsh",
-  "version": "1.9",
+  "version": "2.0",
   "description": "Protect your identity using Mail Sheild",
   "browser_action": {
     "default_icon": {
