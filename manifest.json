@@ -13,7 +13,10 @@
       "128": "icon-128x128.png"
     },
     "default_title": "Mail Shield",
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "background": {
+      "page": "background.html"
+    }
   },
   "icons": {
     "24": "icon-24x24.png",
